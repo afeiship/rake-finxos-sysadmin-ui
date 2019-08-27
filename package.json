@@ -1,0 +1,17 @@
+{
+  "name": "rake-finxos-sysadmin-ui",
+  "version": "1.0.0",
+  "description": "Rake task for sysadmin-ui.",
+  "main": "index.rake",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/rake-finxos-sysadmin-ui.git"
+  },
+  "keywords": ["rake", "task"],
+  "author": "afei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/rake-finxos-sysadmin-ui/issues"
+  },
+  "homepage": "https://github.com/afeiship/rake-finxos-sysadmin-ui#readme"
+}
