@@ -8,5 +8,7 @@ npm i -D afeiship/rake-finxos-sysadmin-ui --registry=https://registry.npm.taobao
 
 ## usage
 ~~~
-rake -T
+rake app:mixin    # Create mixin
+rake app:service  # Create service
+rake app:view     # Create view
 ~~~
